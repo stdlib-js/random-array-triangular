@@ -387,6 +387,12 @@ logEach( '%f', x4 );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/random-base/triangular`][@stdlib/random/base/triangular]</span><span class="delimiter">: </span><span class="description">triangular distributed pseudorandom numbers.</span>
+
 </section>
 
 <!-- /.related -->
@@ -430,8 +436,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/random-array-triangular.svg
 [npm-url]: https://npmjs.org/package/@stdlib/random-array-triangular
 
-[test-image]: https://github.com/stdlib-js/random-array-triangular/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/random-array-triangular/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/random-array-triangular/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/random-array-triangular/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-array-triangular/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-array-triangular?branch=main
